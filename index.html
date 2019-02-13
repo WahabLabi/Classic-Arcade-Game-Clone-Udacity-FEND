@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Effective JavaScript: Frogger</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet">
+</head>
+<body>
+    <h1 class="header">classic arcade game</h1>
+    <section>
+        <p class="instructions disappearing">
+        (1) Choose one of the five characters below
+        <br>
+        (2) Use the arrow keys to move your character to the water and get 10 points
+        <br>
+        (3) Be careful - if a bug hits you then you lose a life, a point and have to restart
+        <br>
+        (4) The bugs move at randomly chosen speeds. Refresh the page to reset their speeds
+        <br>
+        (5) Good luck! 🤞
+        <br>
+        <button class="button">press to start</button>
+    </section>
+    <section class="panel instructions">
+        <span class="lives" id="padding">Lives = 3</span>
+        <span class="score" id="padding">Score = 0</span>
+    </section>
+    </p>
+
+    <ul class="chars">
+        <span id="one"><img src = 'images/char-boy.png' alt='boy'></span>
+        <span id="two"><img src = 'images/char-cat-girl.png' alt='cat-girl'></span>
+        <span id="three"><img src = 'images/char-horn-girl.png' alt='horn-girl'></span>
+        <span id="four"><img src = 'images/char-pink-girl.png' alt='pink-girl'></span>
+        <span id="five"><img src = 'images/char-princess-girl.png' alt='princess'></span>
+    </ul>
+
+    <script src="js/resources.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/engine.js"></script>
+</body>
+</html>
