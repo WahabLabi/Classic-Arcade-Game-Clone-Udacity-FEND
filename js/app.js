@@ -90,7 +90,7 @@ class Players extends Enemies {
             livesCount = 3;
             scoreCount = 0;
             lives.innerHTML = 'Lives = 3';
-            score.innerHTML = 'Score';
+            score.innerHTML = 'Score = 0';
             this.reset();
         } 
     }
