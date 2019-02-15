@@ -147,7 +147,7 @@ function rePlayerChar() {
 window.onload = rePlayerChar();
 
 
-// This replaces the instructions with the lives and score panel after the red start button is clicked
+// This replaces the instructions with the lives and score panel after the green start button is clicked
 function reVisibility() {
     cloak.addEventListener('click', () => {
         document.querySelector('.disappearing').classList.add('disappear');
