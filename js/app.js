@@ -6,10 +6,12 @@ const chars = [
     'images/char-princess-girl.png'
 ];
 
+
 let charChoice = [chars[0]];
 let livesCount = 3;
 let scoreCount = 0;
 let theArray = [];
+
 
 const lives = document.querySelector('.lives');
 const score = document.querySelector('.score');
@@ -170,6 +172,7 @@ window.onload = reVisibility();
     }
 })();
 
+
 // This listens for key presses and sends the keys to the handleInput() method above.
 document.addEventListener('keydown', (e) => {
     var allowedKeys = {
@@ -178,7 +181,6 @@ document.addEventListener('keydown', (e) => {
         39: 'right',
         40: 'down',
     };
-
     player.handleInput(allowedKeys[e.keyCode]);
 });
 
