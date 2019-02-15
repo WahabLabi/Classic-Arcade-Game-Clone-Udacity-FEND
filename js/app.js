@@ -57,6 +57,7 @@ class Players extends Enemies {
             this.reset();
         }
 
+        //2D Bounding Box collision detection
         allEnemies.forEach((enemy) => {
             let rePlayer = {x: this.x, y: this.y, width: 30, height: 35}
             let reEnemy = {x: enemy.x, y: enemy.y, width: 30, height: 35}
@@ -73,10 +74,12 @@ class Players extends Enemies {
         })
     }
 
+    // Updates the number of lives remaining
     rePlayerLives() {
         lives.innerHTML = `Lives = ${livesCount}`;
     }
 
+    // Updates the player'score
     rePlayerScore() {
         score.innerHTML = `Score = ${scoreCount}`;
     }
@@ -92,6 +95,7 @@ class Players extends Enemies {
         } 
     }
 
+    // After every collision or success this returns the player to the starting point on the grass and resets each bug' speed
     reset() {
         this.x = 200;
         this.y = 400;
@@ -102,6 +106,7 @@ class Players extends Enemies {
         allEnemies.push(bugster1, bugster2, bugster3);
     }
 
+    // This responds to every arrow click and moves the character accordingly
     handleInput() {
         return  event.keyCode == 37 && this.x > 0   ? this.x -= 16
              :  event.keyCode == 38 && this.y > 20  ? this.y -= 16
@@ -147,7 +152,7 @@ function rePlayerChar() {
 window.onload = rePlayerChar();
 
 
-// This replaces the instructions with the lives and score panel after the green start button is clicked
+// This replaces the instructions after the green start button is clicked with the lives and score panel
 function reVisibility() {
     cloak.addEventListener('click', () => {
         document.querySelector('.disappearing').classList.add('disappear');
@@ -158,15 +163,14 @@ function reVisibility() {
 window.onload = reVisibility();
 
 
-//This creates an array of random speeds for the bugs which are changed after every reset
+//This creates an array of random speeds for the bugs
 (function topaz() {
     while(theArray.length < 50) {
         theArray.push(Math.floor(Math.random()*(500-250) + 250));
     }
 })();
 
-// This listens for key presses and sends the keys to your
-// Player.handleInput() method. You don't need to modify this.
+// This listens for key presses and sends the keys to the Players.handleInput() method above.
 document.addEventListener('keydown', (e) => {
     var allowedKeys = {
         37: 'left',
@@ -179,9 +183,9 @@ document.addEventListener('keydown', (e) => {
 });
 
 
-// Now instantiate your objects.
-// Place all enemy objects in an array called allEnemies
-// Place the player object in a variable called player
+// Instantiation of objects
+// The Enemy objects are pushed into an array called allEnemies
+// The Players object is placed into a variable called player
 let allEnemies = [];
 let player = new Players();
 let bugster1 = new Enemies(-100, 60, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
