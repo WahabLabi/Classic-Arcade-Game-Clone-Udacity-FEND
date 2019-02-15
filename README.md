@@ -2,12 +2,14 @@
 
 This is a game based on the arcade hit Frogger.
 
-You start on the grass and your aim is to cross the busy road (without getting hit by one of the bugs that are going along it) and reach the water' edge on the other side safely.
+During the game you are in control of a character and your objective is to safely cross a busy thoroughfare and reach the water' edge beyond - achieving this objctive will result in a reward of 10 points. The thoroughfare is traversed by speeding bugs and if they hit you then you will lose a life, a point and have to restart. 
 
-If you're successful then you'll get 10 points - HOORAY! Otherwise if you're hit by a bug then you'll lose a life, a point and have to restart.
+You can choose one of five characters at any time and have three lives. Use your keyboard arrow keys to move your character. Pressing and holding an arrow key down moves the character continuously and faster in that direction.
 
-You can choose one of five characters at any time and have three lives. You use your keyboard arrow keys to move your character. Pressing the key down moves the character continuously and faster.
+The bugs move at random speeds which are reset after every collision or success.
 
-The bugs move at randomly chosen speeds. Refreshing the page reset their speeds.
+In order to play the game you have to download or clone this repo. Once you've got those files on your local machine then please open the index.html file and the game will then appear.
 
-Good luck! 🤞 
+I built this game as part of my Udacity Front End Nanodegree. I was provided with a game engine and resources and then had to use my Object-oriented coding skills to complete the game (and some HTML and CSS). I chose to use JavaScript' new ES6 classes as syntactic sugar over the project' prototype-based inheritance foundation.
+
+Enjoy and good luck! 🤞 
