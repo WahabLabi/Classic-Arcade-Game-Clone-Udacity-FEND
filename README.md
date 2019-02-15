@@ -8,8 +8,8 @@ You can choose one of five characters at any time and have three lives. Use your
 
 The bugs move at random speeds which are reset after every collision or success.
 
-In order to play the game you have to download or clone this repo. Once you've got the code on your local machine then please navigate to and then open the index.html file to see the game.
+In order to play the game you have to download or clone this repo. Once you've got the code on your machine then please navigate to and then open the index.html file to see the game.
 
-I built this game as part of my Udacity Front End Nanodegree. I was provided with a game engine and resources and then had to use my JavaScript Object-oriented coding skills to complete the game (and some HTML and CSS). I used ES6 classes as syntactic sugar over a prototype-based inheritance foundation.
+This game is one of my projects for the Front End Web Developer Nanodegree that I am doing at Udacity (https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). I had to use my JavaScript Object-oriented coding skills to make the game work. I opted for ES6 classes as syntactic sugar over a prototype-based inheritance foundation. I also included some DOM manipulation and CSS styling.
 
-Enjoy and good luck! 🤞 
+I hope you enjoy playing it! 
