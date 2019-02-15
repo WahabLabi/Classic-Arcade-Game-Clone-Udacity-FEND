@@ -10,6 +10,6 @@ The bugs move at random speeds which are reset after every collision or success.
 
 In order to play the game you have to download or clone this repo. Once you've got the code on your machine then please navigate to and then open the index.html file to see the game.
 
-This game is one of my projects for the Front End Web Developer Nanodegree that I am doing at Udacity (https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). I had to use my Object-oriented JavaScript skills to make the game work and in this regard used ES6 classes. I also carried out some DOM manipulation and CSS styling. Finally I learned more about 2D JavaScript game development and specifically things such as 2D collision detection and keyboard control mechanisms.
+This game is one of my projects for the Front End Web Developer Nanodegree that I am doing at Udacity (https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). I had to use my Object-oriented JavaScript skills to make the game work and in this regard used ES6 classes. I also carried out some DOM manipulation and CSS styling. I learned more about 2D JavaScript game development and specifically things such as 2D collision detection and keyboard control mechanisms.
 
 I hope you enjoy playing it! 
