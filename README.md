@@ -10,6 +10,6 @@ The bugs move at random speeds which are reset after every collision or success.
 
 In order to play the game you have to download or clone this repo. Once you've got the code on your local machine then please navigate to and then open the index.html file to see the game.
 
-I built this game as part of my Udacity Front End Nanodegree. I was provided with a game engine and resources and then had to use my JavaScript Object-oriented coding skills to complete the game (and some HTML and CSS). I chose to use ES6 classes as syntactic sugar over a prototype-based inheritance foundation.
+I built this game as part of my Udacity Front End Nanodegree. I was provided with a game engine and resources and then had to use my JavaScript Object-oriented coding skills to complete the game (and some HTML and CSS). I used ES6 classes as syntactic sugar over a prototype-based inheritance foundation.
 
 Enjoy and good luck! 🤞 
