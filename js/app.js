@@ -63,9 +63,11 @@ class Players extends Enemies {
         allEnemies.forEach((enemy) => {
             let rePlayer = {x: this.x, y: this.y, width: 30, height: 35}
             let reEnemy = {x: enemy.x, y: enemy.y, width: 30, height: 35}
-            if (rePlayer.x < reEnemy.x + reEnemy.width && rePlayer.x + rePlayer.width > reEnemy.x &&
-            rePlayer.y < reEnemy.y + reEnemy.height && rePlayer.y + rePlayer.height > reEnemy.y) {
-                alert('Collision! 😱')
+            if (rePlayer.x < reEnemy.x + reEnemy.width && 
+                rePlayer.x + rePlayer.width > reEnemy.x &&
+                rePlayer.y < reEnemy.y + reEnemy.height && 
+                rePlayer.y + rePlayer.height > reEnemy.y) {
+                alert('Collision! 😱');
                 this.reset();
                 livesCount--;
                 `${scoreCount}` > 1 ? `${scoreCount--}` : '';
