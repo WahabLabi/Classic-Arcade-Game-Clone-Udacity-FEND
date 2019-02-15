@@ -170,7 +170,7 @@ window.onload = reVisibility();
     }
 })();
 
-// This listens for key presses and sends the keys to the Players.handleInput() method above.
+// This listens for key presses and sends the keys to the handleInput() method above.
 document.addEventListener('keydown', (e) => {
     var allowedKeys = {
         37: 'left',
