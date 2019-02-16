@@ -13,6 +13,11 @@ let charChoice = [chars[0]];
 let livesCount = 3;
 let scoreCount = 0;
 let theArray = [];
+let allEnemies = [];
+let player;
+let bugster1;
+let bugster2;
+let bugster3;
 
 
 const lives = document.querySelector('.lives');
@@ -169,7 +174,7 @@ function reVisibility() {
 window.onload = reVisibility();
 
 
-//This creates an array of random speeds for the bugs
+// This creates an array of random speeds for the bugs
 (function topaz() {
     while(theArray.length < 50) {
         theArray.push(Math.floor(Math.random()*(500-250) + 250));
@@ -179,7 +184,7 @@ window.onload = reVisibility();
 
 // This listens for key presses and sends the keys to the handleInput() method above.
 document.addEventListener('keydown', (e) => {
-    var allowedKeys = {
+    const allowedKeys = {
         37: 'left',
         38: 'up',
         39: 'right',
@@ -192,9 +197,8 @@ document.addEventListener('keydown', (e) => {
 // Instantiation of objects
 // The Enemy objects are pushed into an array called allEnemies
 // The Players object is placed into a variable called player
-let allEnemies = [];
-let player = new Players();
-let bugster1 = new Enemies(-100, 60, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
-let bugster2 = new Enemies(-100, 145, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
-let bugster3 = new Enemies(-100, 225, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+player = new Players();
+bugster1 = new Enemies(-100, 60, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+bugster2 = new Enemies(-100, 145, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+bugster3 = new Enemies(-100, 225, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
 allEnemies.push(bugster1, bugster2, bugster3);
