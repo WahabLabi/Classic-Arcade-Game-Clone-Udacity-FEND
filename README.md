@@ -1,6 +1,6 @@
 # Udacity-FEND-arcade-game
 
-This game is one of my projects for the Front End Web Developer Nanodegree that I am doing at Udacity (https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make the game work. I used ES6 classes and also carried out some DOM manipulation and CSS styling. Overall I learned a lot about OOJS and developed game development skills such as 2D collision detection and keyboard control mechanisms.
+This game is one of my projects for the Front End Web Developer Nanodegree that I'm doing at Udacity (https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001). Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it all work. I used ES6 classes and also carried out some DOM manipulation and CSS styling. Overall I learned a lot about OOJS and developed game development skills such as 2D collision detection and keyboard control mechanisms.
 
 The game is based on the arcade hit Frogger. You can choose one of five avatars at any time and have three lives. The avatar is controlled by your keyboard arrow.
 
