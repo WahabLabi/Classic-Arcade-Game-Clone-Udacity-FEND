@@ -66,7 +66,7 @@ class Players extends Enemies {
             this.reset();
         }
 
-        //2D Bounding Box collision detection
+        // 2D Bounding Box collision detection
         allEnemies.forEach((enemy) => {
             let rePlayer = {x: this.x, y: this.y, width: 30, height: 35}
             let reEnemy = {x: enemy.x, y: enemy.y, width: 30, height: 35}
