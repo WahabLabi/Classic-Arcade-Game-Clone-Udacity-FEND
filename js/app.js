@@ -111,9 +111,9 @@ class Players extends Enemies {
         this.x = 200;
         this.y = 400;
         allEnemies = [];
-        let bugster1 = new Enemies(-100, 60, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
-        let bugster2 = new Enemies(-100, 145, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
-        let bugster3 = new Enemies(-100, 225, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+        bugster1 = new Enemies(-100, 60, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+        bugster2 = new Enemies(-100, 145, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
+        bugster3 = new Enemies(-100, 225, `${theArray[Math.floor(Math.random()*theArray.length)]}`);
         allEnemies.push(bugster1, bugster2, bugster3);
     }
 
