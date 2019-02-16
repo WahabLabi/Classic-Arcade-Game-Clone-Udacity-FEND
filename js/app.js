@@ -176,8 +176,8 @@ window.onload = reVisibility();
 
 // This creates an array of random speeds for the bugs
 (function topaz() {
-    while(theArray.length < 50) {
-        theArray.push(Math.floor(Math.random()*(500-250) + 250));
+    while(theArray.length < 150) {
+        theArray.push(Math.floor(Math.random()*(550-250) + 250));
     }
 })();
 
