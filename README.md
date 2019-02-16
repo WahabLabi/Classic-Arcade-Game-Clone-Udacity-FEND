@@ -11,3 +11,4 @@ The bugs move at random speeds which are reset after every collision or success.
 In order to play the game you have to download or clone this repo and then open the index.html file.
 
 I hope you enjoy it! 😀
+
