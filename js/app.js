@@ -101,7 +101,7 @@ class Players extends Enemies {
         } 
     }
 
-    // After every collision or success this returns the player to the starting point on the grass and resets each bug' speed
+    // After every collision or success this returns the player to the starting point and resets each bug' speed
     reset() {
         this.x = 200;
         this.y = 400;
