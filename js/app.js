@@ -158,7 +158,7 @@ function rePlayerChar() {
 window.onload = rePlayerChar();
 
 
-// This replaces the instructions after the green start button is clicked with the lives and score indicators
+// This replaces the instructions with the lives and score indicators after the green start button is clicked
 function reVisibility() {
     cloak.addEventListener('click', () => {
         document.querySelector('.disappearing').classList.add('disappear');
