@@ -9,7 +9,7 @@ const chars = [
 ];
 
 
-let charChoice = [chars[0]];
+let charChoice = [chars[2]];
 let livesCount = 3;
 let scoreCount = 0;
 let theArray = [];
@@ -128,35 +128,35 @@ class Players extends Enemies {
 }
 
 
-// This enables the player to change the character
+// This enables the player to change the avatar
 function rePlayerChar() {
     char1.addEventListener('click', () => {
         charChoice = [];
-        charChoice.push('images/char-boy.png');
+        charChoice.push(chars[0]);
         player.sprite = charChoice[0];
     })
 
     char2.addEventListener('click', () => {
         charChoice = [];
-        charChoice.push('images/char-cat-girl.png');
+        charChoice.push(chars[1]);
         player.sprite = charChoice[0];
     })
 
     char3.addEventListener('click', () => {
         charChoice = [];
-        charChoice.push('images/char-horn-girl.png');
+        charChoice.push(chars[2]);
         player.sprite = charChoice[0];
     })
 
     char4.addEventListener('click', () => {
         charChoice = [];
-        charChoice.push('images/char-pink-girl.png');
+        charChoice.push(chars[3]);
         player.sprite = charChoice[0];
     })
 
     char5.addEventListener('click', () => {
         charChoice = [];
-        charChoice.push('images/char-princess-girl.png');
+        charChoice.push(chars[4]);
         player.sprite = charChoice[0];
     })
 }
@@ -167,6 +167,7 @@ window.onload = rePlayerChar();
 function reVisibility() {
     cloak.addEventListener('click', () => {
         document.querySelector('.disappearing').classList.add('disappear');
+        document.querySelector('.indicators').classList.remove('disappear');
         lives.innerHTML = 'Lives = 3';
         score.innerHTML = 'Score = 0';
     });
