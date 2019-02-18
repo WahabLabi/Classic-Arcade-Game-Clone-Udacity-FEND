@@ -29,8 +29,8 @@ body {
     background-color: lime;
     border: .1rem solid;
     letter-spacing: .25rem;
-    width: 12rem;
-    height: 2rem;
+    width: 14rem;
+    height: 4rem;
     border-radius: .5rem;
     cursor: pointer;
 }
