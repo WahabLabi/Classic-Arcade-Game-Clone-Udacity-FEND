@@ -26,7 +26,7 @@ body {
 .button {
     font-family: 'Rock Salt', cursive;
     text-transform: uppercase;
-    background-color: greenyellow;
+    background-color: lime;
     border: .1rem solid;
     letter-spacing: .25rem;
     width: 12rem;
@@ -36,6 +36,6 @@ body {
 }
 
 .button:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     background-color: orange;
 }
