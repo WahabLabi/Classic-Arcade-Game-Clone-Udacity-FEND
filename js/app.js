@@ -195,6 +195,10 @@ document.addEventListener('keydown', (e) => {
 });
 
 
+// This prevents browser scrolling which would otherwise occur when an arrow key is pressed
+window.addEventListener('keydown', (e) => [37, 38, 39, 40].indexOf(e.keyCode) > -1 ? e.preventDefault() : '');
+
+
 // Instantiation of objects
 // The Enemy objects are pushed into an array called allEnemies
 // The Players object is placed into a variable called player
