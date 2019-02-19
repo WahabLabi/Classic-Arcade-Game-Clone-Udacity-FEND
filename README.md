@@ -12,4 +12,3 @@ In order to play the game you have to download or clone this repo and then open 
 
 I hope you enjoy it! 😀
 
-*hello*
