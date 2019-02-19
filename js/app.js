@@ -7,19 +7,6 @@ const chars = [
     'images/char-pink-girl.png', 
     'images/char-princess-girl.png'
 ];
-
-
-let charChoice = [chars[2]];
-let livesCount = 3;
-let scoreCount = 0;
-let theArray = [];
-let allEnemies = [];
-let player;
-let bugster1;
-let bugster2;
-let bugster3;
-
-
 const lives = document.querySelector('.lives');
 const score = document.querySelector('.score');
 const cloak = document.querySelector('.button');
@@ -28,6 +15,9 @@ const char2 = document.querySelector('#two');
 const char3 = document.querySelector('#three');
 const char4 = document.querySelector('#four');
 const char5 = document.querySelector('#five');
+
+
+let charChoice = [chars[2]], livesCount = 3, scoreCount = 0, theArray = [], allEnemies = [], player, bugster1, bugster2, bugster3;
 
 
 // Enemy class
