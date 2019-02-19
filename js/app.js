@@ -1,5 +1,6 @@
 'use strict';
 
+
 const chars = [
     'images/char-boy.png', 
     'images/char-cat-girl.png', 
