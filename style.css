@@ -4,10 +4,12 @@ body {
 
 .header {
     font-family: 'Faster One', cursive;
+    font-size: 40px;
 }
 
 .instructions {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 20px;
 }
 
 .chars {
@@ -17,6 +19,7 @@ body {
 
 .padding {
     padding: 0 40px;
+    font-family: 'Staatliches', cursive;
 }
 
 .disappear {
@@ -24,8 +27,8 @@ body {
 }
 
 .button {
-    font-family: 'Rock Salt', cursive;
-    text-transform: uppercase;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 15px;
     background-color: lime;
     border: .1rem solid;
     letter-spacing: .25rem;
@@ -33,9 +36,18 @@ body {
     height: 4rem;
     border-radius: .5rem;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .button:hover {
     transform: scale(1.1);
     background-color: orange;
+}
+
+.button:after {
+    content: 'CLICK TO START';
+}
+
+.button:hover:after {
+    content: 'GOOD LUCK!';
 }
