@@ -12,6 +12,6 @@ In order to play the game you have to download or clone this repo and then open 
 
 I hope you enjoy it! 😀
 
-![classic arcade game](https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png)
+![screenshot of classic arcade game](https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png)
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
