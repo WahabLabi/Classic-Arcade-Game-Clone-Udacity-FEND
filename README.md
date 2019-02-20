@@ -17,7 +17,10 @@ I hope you enjoy it! 😀
 <img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png">
 
 <style>
-  
+  img {
+    width: 200px;
+    height: 200px;
+  }
 </style>
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
