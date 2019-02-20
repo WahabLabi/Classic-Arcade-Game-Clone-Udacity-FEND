@@ -1,4 +1,4 @@
-### CLASSIC ARCADE GAME CLONE 
+# CLASSIC ARCADE GAME CLONE 
 
 This game is one of my projects for the Front End Developer Nanodegree that I'm doing at [Udacity][1]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it all work. I used ES6 classes and also carried out some DOM manipulation and CSS styling. Overall it was a good opportunity to further develop my OOJS skills and learn about game development, in particular things such as 2D collision detection and keyboard control mechanisms.
 
