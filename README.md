@@ -6,7 +6,7 @@
 
 ## Access and Installation
 
-You can access and play the game by [clicking][1] here or download/clone this repo and then open the index.html file.
+You can access and play the game by [clicking here][1] or download/clone this repo and then open the index.html file.
 
 ## Background
 This game is one of my projects for the Front End Developer Nanodegree that I'm doing at [Udacity][2]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it all work. I used ES6 classes and also carried out some DOM manipulation and CSS styling. Overall it was a good opportunity to further develop my OOJS skills and learn about game development, in particular things such as 2D collision detection and keyboard control mechanisms.
@@ -21,5 +21,5 @@ In order to play the game you have to download or clone this repo and then open 
 
 I hope you enjoy it! 😀
 
-[1]https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
+[1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
