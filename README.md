@@ -1,6 +1,6 @@
 ## Classic Arcade Game Clone 
 
-<img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" width="40%" height="40%">
+<img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" alt="screenshot of arcade game" width="40%" height="40%">
 
 - You control an avatar and your aim is to reach the water by crossing the busy thoroughfare whilst evading the bugs
 - Choose your avatar by clicking on one of the five provided and then move it using your keyboard arrow keys
