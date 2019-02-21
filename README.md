@@ -15,7 +15,7 @@ You can play the game by [clicking here][1] or by cloning/downloading this repo 
 
 ## Development
 
-This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. They provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly.
+This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. They provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly. You can see my code in the [app.js](js/app.js) file.
 
 Skills developed:
 
