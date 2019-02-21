@@ -2,9 +2,9 @@
 
 <img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" width="40%" height="40%">
 
+- You control an avatar and your aim is to reach the water by crossing the busy thoroughfare whilst evading the bugs
 - Choose an avatar by clicking on it
 - Move your avatar using the arrow keys
-- Your aim is to reach the water by crossing the busy thoroughfare whilst evading the bugs
 - You have three lives
 - Success (reaching the water) = 10 points
 - Failure (being hit by a bug) = having a life and one point deducted and then restarting
