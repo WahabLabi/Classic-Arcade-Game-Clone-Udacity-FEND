@@ -23,7 +23,7 @@ Skills developed:
 * [x] OOJS
 * [x] ES6 (especially the use of classes)
 * [x] DOM manipulation
-* [x] SS styling
+* [x] CSS styling
 * [x] Game development (especially 2D collision detection and keyboard control mechanisms)
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
