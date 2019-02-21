@@ -11,7 +11,7 @@
 
 ## Access and Installation
 
-You can access and play the game by [clicking here][1] or download/clone this repo and then open the index.html file.
+You can play the game by [clicking here][1] or by downloading/cloning this repo and then opening the index.html file.
 
 ## Development
 
