@@ -15,7 +15,7 @@ You can access and play the game by [clicking here][1] or download/clone this re
 
 ## Development
 
-This game was one of my projects for my Front End Developer Nanodegree[2]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it all work.
+This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. They provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it all work.
 
 Skills developed:
 
@@ -27,3 +27,4 @@ Skills developed:
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
+[3]:https://eu.udacity.com/
