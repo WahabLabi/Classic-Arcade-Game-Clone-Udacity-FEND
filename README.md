@@ -1,4 +1,4 @@
-## Classic Arcade Game Clone 
+# Classic Arcade Game Clone 
 
 <img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" alt="screenshot of arcade game" width="40%" height="40%">
 
