@@ -20,11 +20,11 @@ This game was one of my projects for my [Front End Developer Nanodegree][2] at [
 
 Skills developed:
 
-- OOJS
-- ES6 (especially the use of classes)
-- DOM manipulation
-- CSS styling
-- Game development (especially 2D collision detection and keyboard control mechanisms)
+* [x] OOJS
+* [x] ES6 (especially the use of classes)
+* [x] DOM manipulation
+* [x] SS styling
+* [x] Game development (especially 2D collision detection and keyboard control mechanisms)
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
