@@ -12,7 +12,7 @@
 
 ## Access and Installation
 
-You can play the game by [clicking here][1] or by cloning/downloading this repo and then opening the index.html file.
+You can play the game by [clicking here][1] or by cloning/downloading this repo and then opening the index.html file
 
 ## Development
 
