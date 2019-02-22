@@ -25,6 +25,10 @@ Skills developed:
 * [x] CSS styling
 * [x] Game development (especially 2D collision detection and keyboard control mechanisms)
 
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE)
+
 [1]:https://wlabi.github.io/Classic-Arcade-Game-Clone-Udacity-FEND/
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [3]:https://eu.udacity.com/
