@@ -11,11 +11,11 @@
 
 ## Access and Installation
 
-You can play the game by [clicking here][1] or by cloning/downloading this repo and then opening the index.html file
+You can play the game by [clicking here][1] or by cloning/downloading this repository and then opening the index.html file
 
 ## Development
 
-This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repo.
+This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repository.
 
 Skills developed:
 
