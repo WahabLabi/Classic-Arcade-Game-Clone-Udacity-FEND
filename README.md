@@ -9,11 +9,11 @@
 - Failure (being hit by a bug) = having a life and one point deducted and then restarting
 - The bugs move at random speeds which are reset after every success or failure
 
-You can play the game by [clicking here][1]
+[CLICK][1] to play
 
 ## Installation
 
- Clone/download this repository and then open the index.html file to play the game
+Clone/download this repository and then open the index.html file to play the game
 
 ## Development
 
