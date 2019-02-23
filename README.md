@@ -13,11 +13,11 @@
 
 ## Installation
 
-Clone/download this repository and then open the index.html file to play the game
+Clone or download this repository
 
 ## Development
 
-This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repository.
+This game was built with HTML, CSS and JavaScript and was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repository.
 
 Skills developed:
 
@@ -25,7 +25,7 @@ Skills developed:
 * [x] ES6 (especially the use of classes)
 * [x] DOM manipulation
 * [x] CSS styling
-* [x] Game development (especially 2D collision detection and keyboard control mechanisms)
+* [x] JavaScript game development (especially 2D collision detection and keyboard control mechanisms)
 
 ## License
 
