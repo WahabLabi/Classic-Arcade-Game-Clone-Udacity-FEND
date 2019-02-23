@@ -22,7 +22,7 @@ This game was built with HTML, CSS and JavaScript and was one of my projects for
 Skills developed:
 
 * [x] OOJS
-* [x] ES6 (especially the use of classes)
+* [x] ES6 (especially the use of classes, arrow functions and template literals/strings)
 * [x] DOM manipulation
 * [x] CSS styling
 * [x] JavaScript game development (especially 2D collision detection and keyboard control mechanisms)
