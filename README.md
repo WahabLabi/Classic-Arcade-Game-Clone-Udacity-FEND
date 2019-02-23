@@ -15,7 +15,7 @@ This repository contains a clone of Frogger, the classic arcade game
 
 ## Installation
 
-Clone or download this repository
+Clone or download this repository to your local machine
 
 ## Development
 
