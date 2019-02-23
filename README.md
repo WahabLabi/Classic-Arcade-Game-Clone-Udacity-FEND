@@ -19,11 +19,9 @@ Clone or download this repository
 
 ## Development
 
-This game was built with HTML, CSS and JavaScript and was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repository.
+This game was built with HTML, CSS and JavaScript and you can see some of my code in the [app.js](js/app.js) file in this repository. Whilst building it I developed the following skills:
 
-Skills developed:
-
-* [x] OOJS
+* [x] Object-oriented JavaScript
 * [x] ES6 (especially the use of classes, arrow functions and template literals/strings)
 * [x] DOM manipulation
 * [x] CSS styling
@@ -32,6 +30,10 @@ Skills developed:
 ## License
 
 The contents of this repository are covered under the [MIT License](LICENSE)
+
+## Acknowledgements
+
+This was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I developed it using my object-oriented JavaScript skills. I'd like to acknowledge the importance of the Udacity reviews and feedback regarding my code.
 
 [1]:https://wlabi.github.io/Classic-Arcade-Game-Clone-Udacity-FEND/
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
