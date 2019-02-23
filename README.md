@@ -11,7 +11,7 @@ This repository contains a clone of Frogger, the classic arcade game
 - Failure (being hit by a bug) = having a life and one point deducted and then restarting
 - The bugs move at random speeds which are reset after every success or failure
 
-[CLICK][1] to play
+[CLICK][1] to start
 
 ## Installation
 
