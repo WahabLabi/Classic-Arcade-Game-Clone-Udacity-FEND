@@ -15,7 +15,7 @@ Clone or download this repository to your local machine
 This game was built with HTML, CSS and JavaScript and you can see most of my code in the [app.js](js/app.js) file in this repository. Whilst building it I further improved the following skills:
 
 * [x] Object-oriented JavaScript
-* [x] ES6 (especially the use of classes, arrow functions and template literals/strings)
+* [x] ES6 (especially the use of classes and template literals/strings)
 * [x] DOM manipulation
 * [x] CSS styling
 * [x] JavaScript game development (especially 2D collision detection and keyboard control mechanisms)
