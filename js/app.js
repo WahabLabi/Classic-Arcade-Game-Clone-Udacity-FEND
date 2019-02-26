@@ -81,7 +81,7 @@ class Players extends Enemies {
         lives.innerHTML = `Lives = ${livesCount}`;
     }
 
-    // Updates the player'score
+    // Updates the player' score
     rePlayerScore() {
         score.innerHTML = `Score = ${scoreCount}`;
     }
