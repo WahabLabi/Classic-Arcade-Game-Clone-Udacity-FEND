@@ -12,7 +12,7 @@ Clone or download this repository to your local machine
 
 ## Development
 
-This game was built with HTML, CSS and JavaScript  - you can see some of my JavaScript code in this repo' [app.js](js/app.js) file. In particular I used and further refined the following skills during the development of this game:
+This game was built with HTML, CSS and JavaScript  - you can see some of my JavaScript code in the [app.js](js/app.js) file. In particular I used and further refined the following skills during the development of this game:
 
 * [x] Object-oriented JavaScript (OOJS)
 * [x] ES6 (especially the use of classes and template literals/strings)
