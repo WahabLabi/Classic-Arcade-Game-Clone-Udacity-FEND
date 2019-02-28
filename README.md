@@ -4,7 +4,7 @@ This repository contains a clone of Frogger, the classic arcade game
 
 <img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" alt="screenshot of arcade game" width="40%" height="40%">
 
-[CLICK][1] to play the game
+[CLICK][1] to play
 
 ## Installation
 
@@ -26,7 +26,7 @@ The contents of this repository are covered under the [MIT License](LICENSE)
 
 ## Acknowledgements
 
-This was the third major project for my [Front End Developer Nanodegree][2] at [Udacity][3] - they provided the game engine and resources. Udacity' lessons, supporting material, code reviews and feedback were invaluable.
+This was the third major project for my [Front End Developer Nanodegree][2] at [Udacity][3] - they provided the game engine and resources. Udacity' lessons, resources, code reviews and feedback were invaluable.
 
 [1]:https://wlabi.github.io/Classic-Arcade-Game-Clone-Udacity-FEND/
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
