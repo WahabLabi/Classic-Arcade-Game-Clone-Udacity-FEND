@@ -26,7 +26,7 @@ The contents of this repository are covered under the [MIT License](LICENSE)
 
 ## Acknowledgements
 
-This was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3] - they provided the game engine and resources and then I used my OOJS and other skills to develop it. Udacity' lessons, supporting material, code reviews and feedback were invaluable.
+This was the third major project for my [Front End Developer Nanodegree][2] at [Udacity][3] - they provided the game engine and resources and then I used my OOJS and other skills to develop it. Udacity' lessons, supporting material, code reviews and feedback were invaluable.
 
 [1]:https://wlabi.github.io/Classic-Arcade-Game-Clone-Udacity-FEND/
 [2]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
