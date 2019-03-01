@@ -8,7 +8,7 @@ This repository contains a clone of Frogger, the classic arcade game
 
 ## Installation
 
-Clone or download this repository to your local machine
+Clone or download this repository to your local machine and then to play the game open the [index.html](index.html) file.
 
 ## Development
 
