@@ -5,13 +5,12 @@ body {
 .header {
     font-family: 'Faster One', cursive;
     font-size: 40px;
-    margin-top: -5px;
-    padding: 0;
 }
 
 .instructions {
     font-family: 'The Girl Next Door', cursive;
     font-size: 20px;
+    margin-top: 0;
 }
 
 .chars {
