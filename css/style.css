@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    overflow-y: hidden;
 }
 
 .header {
@@ -9,7 +10,7 @@ body {
 
 .instructions {
     font-family: 'The Girl Next Door', cursive;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .chars {
