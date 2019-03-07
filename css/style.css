@@ -51,3 +51,8 @@ body {
 .button:hover:after {
     content: 'GOOD LUCK!';
 }
+
+.indicators {
+    position: absolute;
+    float: left;
+}
