@@ -51,7 +51,3 @@ body {
 .button:hover:after {
     content: 'GOOD LUCK!';
 }
-
-.margins {
-    margin-bottom: 0;
-}
