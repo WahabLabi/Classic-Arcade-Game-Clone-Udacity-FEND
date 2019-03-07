@@ -53,6 +53,6 @@ body {
 }
 
 .indicators {
-    position: absolute;
-    float: left;
+    position: absolute !important;
+    float: left !important;
 }
