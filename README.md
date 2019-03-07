@@ -2,9 +2,7 @@
 
 This repository contains a clone of Frogger, the classic arcade game
 
-<img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" alt="screenshot of arcade game" width="40%" height="40%">
-
-<img src="https://github.com/wlabi/Classic-Arcade-Game-Clone-Udacity-FEND/blob/master/images/Classic%20arcade%20game.png" alt="screenshot of arcade game" width="40%" height="40%">
+<img src="Classic-Arcade-Game-Clone-Udacity-FEND/images/classic-arcade-game-screenshot.png" alt="screenshot of arcade game" width="40%" height="40%">
 
 [CLICK][1] to play
 
