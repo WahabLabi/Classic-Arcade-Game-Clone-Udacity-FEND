@@ -3,6 +3,7 @@
 This repository contains a clone of Frogger, the classic arcade game
 
 <img src="/images/classic-arcade-game-screenshot.png" alt="screenshot of arcade game" width="100%" height="100%">
+
 [CLICK][1] to play
 
 ## Installation
