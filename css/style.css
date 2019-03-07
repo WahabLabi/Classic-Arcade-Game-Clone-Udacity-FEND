@@ -55,4 +55,6 @@ body {
 .indicators {
     position: absolute !important;
     float: left !important;
+    layout: block !important;
+    margin: 0 auto !imporant;
 }
