@@ -6,6 +6,7 @@ body {
     font-family: 'Faster One', cursive;
     font-size: 40px;
     margin-top: -5px;
+    padding: 0;
 }
 
 .instructions {
